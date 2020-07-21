@@ -1,6 +1,6 @@
-### Agile & Scrum 
+# Agile & Scrum 
 
-# The three amigos of Development 
+### The three amigos of Development 
 - the concept of the three amigos is an analogy that attempts to connect the perspectives to examine an increment of work before (business) during (development) and after development(testing)
 - Business - what problems are we trying to solve 
             business analyst discuss user stories/requirements/acceptance criteria
@@ -18,7 +18,6 @@
 ### Information Radiators 
 -  Large graph showing representation of project information 
 -  Used
-
 
 ### Scrum artefacts 
 
@@ -68,7 +67,15 @@ a team that is self-organisational decides between its memebers how best to appr
 - The heart of scrum is a sprint; a timeboxed evetn that beginnning from two weeks and elapsing until or before a month where a "done" useable or potentially releseable product increment is created. 
 - sprints have consistent durations throughout a development effort. 
 
-Sprint planning 
+## Scrum artifacts 
+
+### product backlog 
+- an ordered list of everything that is known or needed in the product. 
+- the product owner is soley repsonsible for the product back log - which includes modifying or updating the back log with extra elements to be included
+
+### sprint backlog 
+- the sprint backlog is a list of items selected for the sprint plus a plan for the delivering the product increment and realising the sprint goal. 
+- the sprint backlog is the a forecast by the development team about what functionality will be in the next increment and the work needed to deliver that functionality into a "done" increment
 
 Sprint 
 
